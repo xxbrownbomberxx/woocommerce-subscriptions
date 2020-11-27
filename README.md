@@ -1,2 +1,2 @@
-# woocommerce-subscriptions
+# woocommerce-subscription
 Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. 
